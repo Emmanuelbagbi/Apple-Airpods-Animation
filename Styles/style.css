@@ -52,7 +52,7 @@ header nav a{
 /* carousel */
 .carousel{
     position: relative;
-    height: 800px;
+    height: 100vh;
     overflow: hidden;
     margin-top: -50px;
 }
@@ -401,7 +401,7 @@ header nav a{
 @media screen and (max-width: 767px){
     /* mobile */
     .carousel{
-        height: 600px;
+        height: 98vh;
     }
     .carousel .list .item{
         width: 100%;
